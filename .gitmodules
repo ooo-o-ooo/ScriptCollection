@@ -1,0 +1,3 @@
+[submodule "aliyun-ddns-shell"]
+	path = aliyun-ddns-shell
+	url = https://github.com/risfeng/aliyun-ddns-shell.git
